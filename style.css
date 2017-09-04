@@ -1,0 +1,224 @@
+@font-face {
+  font-family: 'qcs';
+  src:
+    url('fonts/qcs.woff2?o418zk') format('woff2'),
+    url('fonts/qcs.ttf?o418zk') format('truetype'),
+    url('fonts/qcs.woff?o418zk') format('woff'),
+    url('fonts/qcs.svg?o418zk#qcs') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'qcs' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-system:before {
+  content: "\e93a";
+}
+.icon-human-resources2:before {
+  content: "\e93c";
+}
+.icon-mail:before {
+  content: "\e900";
+}
+.icon-phone:before {
+  content: "\e901";
+}
+.icon-idea:before {
+  content: "\e902";
+}
+.icon-terms:before {
+  content: "\e903";
+}
+.icon-support:before {
+  content: "\e904";
+}
+.icon-logout:before {
+  content: "\e905";
+}
+.icon-visit-website:before {
+  content: "\e906";
+}
+.icon-privacy:before {
+  content: "\e907";
+}
+.icon-feedback:before {
+  content: "\e908";
+}
+.icon-my-account:before {
+  content: "\e909";
+}
+.icon-module-fundemental-standarts:before {
+  content: "\e90a";
+}
+.icon-module-policy-centre:before {
+  content: "\e90b";
+}
+.icon-module-mock-incpections:before {
+  content: "\e90c";
+}
+.icon-module-reading-list:before {
+  content: "\e90d";
+}
+.icon-archive-rl:before {
+  content: "\e90e";
+}
+.icon-blogs-rl:before {
+  content: "\e90f";
+}
+.icon-policies-rl:before {
+  content: "\e910";
+}
+.icon-cutom-doc-rl:before {
+  content: "\e911";
+}
+.icon-home:before {
+  content: "\e940";
+}
+.icon-filled-search:before {
+  content: "\e941";
+}
+.icon-apps:before {
+  content: "\e912";
+}
+.icon-dashboard:before {
+  content: "\e913";
+}
+.icon-menu:before {
+  content: "\e914";
+}
+.icon-add:before {
+  content: "\e915";
+}
+.icon-alarm:before {
+  content: "\e916";
+}
+.icon-filter:before {
+  content: "\e917";
+}
+.icon-share:before {
+  content: "\e918";
+}
+.icon-printer:before {
+  content: "\e919";
+}
+.icon-mail2:before {
+  content: "\e91a";
+}
+.icon-phone-call:before {
+  content: "\e91b";
+}
+.icon-settings:before {
+  content: "\e91c";
+}
+.icon-search:before {
+  content: "\e91d";
+}
+.icon-check:before {
+  content: "\e91e";
+}
+.icon-close:before {
+  content: "\e91f";
+}
+.icon-more:before {
+  content: "\e920";
+}
+.icon-back:before {
+  content: "\e921";
+}
+.icon-next:before {
+  content: "\e922";
+}
+.icon-definitions:before {
+  content: "\e923";
+}
+.icon-forms:before {
+  content: "\e924";
+}
+.icon-further-reading:before {
+  content: "\e925";
+}
+.icon-key-facts:before {
+  content: "\e926";
+}
+.icon-objective:before {
+  content: "\e927";
+}
+.icon-outstanding-practice:before {
+  content: "\e928";
+}
+.icon-policy:before {
+  content: "\e929";
+}
+.icon-purpose:before {
+  content: "\e92a";
+}
+.icon-review-sheet:before {
+  content: "\e92b";
+}
+.icon-scope:before {
+  content: "\e92c";
+}
+.icon-procedure:before {
+  content: "\e92d";
+}
+.icon-pvc-toolkit:before {
+  content: "\e93d";
+}
+.icon-qcs-compliance:before {
+  content: "\e93e";
+}
+.icon-clinical-governance-2:before {
+  content: "\e93f";
+}
+.icon-clinical-governance:before {
+  content: "\e93b";
+}
+.icon-administration:before {
+  content: "\e92e";
+}
+.icon-care-management:before {
+  content: "\e92f";
+}
+.icon-care-planning:before {
+  content: "\e930";
+}
+.icon-catering:before {
+  content: "\e931";
+}
+.icon-fundemental-standards:before {
+  content: "\e932";
+}
+.icon-healthandsafety:before {
+  content: "\e933";
+}
+.icon-human-resources:before {
+  content: "\e934";
+}
+.icon-medications-management:before {
+  content: "\e935";
+}
+.icon-mockinspetcions:before {
+  content: "\e936";
+}
+.icon-qualityassurance:before {
+  content: "\e937";
+}
+.icon-residential-services:before {
+  content: "\e938";
+}
+.icon-stakeholdersurveys:before {
+  content: "\e939";
+}
